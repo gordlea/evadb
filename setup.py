@@ -53,7 +53,7 @@ minimal_requirements = [
     "aenum>=2.2.0",
     "diskcache>=5.4.0",
     "retry>=0.9.2",
-    "pydantic<2",  # ray-project/ray#37019.
+    "pydantic",
     "psutil",
     "thefuzz",
 ]
